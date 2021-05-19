@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-friends/static/css/main.959ebbb4.chunk.css",
+    "main.js": "/React-friends/static/js/main.2dbec68a.chunk.js",
+    "main.js.map": "/React-friends/static/js/main.2dbec68a.chunk.js.map",
+    "runtime-main.js": "/React-friends/static/js/runtime-main.e693416b.js",
+    "runtime-main.js.map": "/React-friends/static/js/runtime-main.e693416b.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/React-friends/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.e2555dbc.chunk.js": "/React-friends/static/js/2.e2555dbc.chunk.js",
+    "static/js/2.e2555dbc.chunk.js.map": "/React-friends/static/js/2.e2555dbc.chunk.js.map",
+    "static/js/3.410890a7.chunk.js": "/React-friends/static/js/3.410890a7.chunk.js",
+    "static/js/3.410890a7.chunk.js.map": "/React-friends/static/js/3.410890a7.chunk.js.map",
+    "index.html": "/React-friends/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/React-friends/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.959ebbb4.chunk.css.map": "/React-friends/static/css/main.959ebbb4.chunk.css.map",
+    "static/js/2.e2555dbc.chunk.js.LICENSE.txt": "/React-friends/static/js/2.e2555dbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e693416b.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.e2555dbc.chunk.js",
+    "static/css/main.959ebbb4.chunk.css",
+    "static/js/main.2dbec68a.chunk.js"
+  ]
+}
