@@ -1,4 +1,4 @@
-a simple website done React 
+a simple website done using React 
 
 fetched data from https://robohash.org/
 
